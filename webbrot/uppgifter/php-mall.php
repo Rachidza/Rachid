@@ -6,7 +6,7 @@
  * [Hed några meningar förkLaras det i mer detaLj.]
  */
 
-  [KbdbLock med instäLLningar och inLedande bearbetningar]
+   // [KbdbLock med instäLLningar och inLedande bearbetningar]
 
   header("Content-type: text/html; charset=utf-8");
 
@@ -26,10 +26,11 @@
      </style>
    </head>
  <body>
-   <h1>[Varierande rubrik som du hittar på sjäLv]</h1>
-  
+   <h1>[Varierande rubrik som du hittar på själv]</h1>
+
    <?php
-     [KodbLock med output]
+
+      //[KodbLock med output]
     ?>
 
  </body>
